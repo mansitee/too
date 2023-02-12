@@ -1,7 +1,6 @@
 # awesome-anime-sources 
 
-A curated list of all things anime - streaming/downloading/reading/tracking/forums.
-
+A curated list of all things anime -
 ### Motivation
 
 * Rather than having all anime websites bookmarked, access them all from one place.

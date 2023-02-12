@@ -1,4 +1,4 @@
-# awesome-anime-sources 
+
 
 A curated list of all things anime -
 ### Motivation

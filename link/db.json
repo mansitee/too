@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "email": "fadliselaz@gmail.com",
+      "password": "$2a$10$HcJeBeDrFXhS0ms/pzArxOACAvLNOJOYI0/sCvuqP7z7OsXx391Wa",
+      "id": 1
+    },
+    {
+      "email": "evalia@gmail.com",
+      "password": "$2a$10$BEG8y05ghu7wHkAXHn8Khem5FDPBUbHZs5pzSK0..bQfoU5glLvNC",
+      "id": 2
+    },
+    {
+      "email": "selva@gmail.com",
+      "password": "$2a$10$vAuvcTjHToC99jCjELS90OaV4JJRg7AE1/Mf6G4lGN0cxXx2gepke",
+      "id": 3
+    },
+    {
+      "email": "alif@gmail.com",
+      "password": "$2a$10$H.grSuN0beFGK8FnJ65fp.486u.4vDST6KmOHunSH2O8DHear7IlO",
+      "id": 4
+    }
+  ],
+  "blogs": [
+    {
+      "userId": 1,
+      "author": "fadliselaz@gmail.com",
+      "judul": "Mengenal pendulum ",
+      "img": "https://images.pexels.com/photos/11666006/pexels-photo-11666006.jpeg?auto=compress&cs=tinysrgb&w=500&lazy=load",
+      "content": "ini adalah content pertama saya menggunakan vitejs",
+      "createdAt": "9/21/2022",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "author": "fadliselaz@gmail.com",
+      "judul": "Jalan jalan kelaut",
+      "img": "https://images.pexels.com/photos/2387311/pexels-photo-2387311.jpeg?auto=compress&cs=tinysrgb&w=500&lazy=load",
+      "content": "hari ini saya jalan jalan sama mantan ke laut",
+      "createdAt": "9/21/2022",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "author": "fadliselaz@gmail.com",
+      "judul": "Vitae et earum magni",
+      "img": "https://images.pexels.com/photos/12238320/pexels-photo-12238320.jpeg?auto=compress&cs=tinysrgb&w=500&lazy=load",
+      "content": "Et autem repellendus",
+      "createdAt": "9/21/2022",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "author": "fadliselaz@gmail.com",
+      "judul": "Quia nulla voluptate",
+      "img": "https://images.pexels.com/photos/11719040/pexels-photo-11719040.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+      "content": "In est adipisci ver",
+      "createdAt": "9/21/2022",
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "author": "alif@gmail.com",
+      "judul": "Error voluptatem ut ",
+      "img": "https://images.pexels.com/photos/13623557/pexels-photo-13623557.jpeg?auto=compress&cs=tinysrgb&w=500&lazy=load",
+      "content": "Ad aspernatur dolore",
+      "createdAt": "9/21/2022",
+      "id": 5
+    },
+    {
+      "userId": 4,
+      "author": "alif@gmail.com",
+      "judul": "Membaca Novel",
+      "img": "https://images.pexels.com/photos/13252401/pexels-photo-13252401.jpeg?auto=compress&cs=tinysrgb&w=500&lazy=load",
+      "content": "Kali ini saya akan membacakan novel",
+      "createdAt": "9/22/2022",
+      "id": 6
+    },
+    {
+      "userId": 4,
+      "author": "alif@gmail.com",
+      "judul": "Inventore numquam qu",
+      "img": "https://images.pexels.com/photos/9832430/pexels-photo-9832430.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load",
+      "content": "Et enim voluptatem ",
+      "createdAt": "9/22/2022",
+      "id": 7
+    }
+  ]
+}
